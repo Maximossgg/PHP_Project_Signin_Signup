@@ -1,0 +1,41 @@
+body {
+    background-color: #000000;
+    background-image: linear-gradient(225deg, #000000 0%, #000000 50%, #000000 100%);
+    background-size: cover;
+  }
+
+
+  .input{
+      width : 400px;
+  }
+
+table {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    font-size: x-large;
+    border: 8px solid rgb(255, 255, 255);
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td {
+    color: white;
+    background-color: #690303;
+    border: 10px solid rgb(255, 255, 255);
+}
+th, td {
+    color: white;
+    border: 10px solid rgb(255, 255, 255);
+    padding: 8px;
+    text-align: center;
+}
+
+p{
+    color: white;
+}
